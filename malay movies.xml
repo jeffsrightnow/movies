@@ -9,12 +9,6 @@
 </item>
 
 <item>
-<title> Munafik Akan Datang (2016) </title>
-<link>plugin://plugin.video.youtube/play/?video_id=tLCIHiIYiLY</link>
-<thumbnail>http://www.cinema.com.my/images/movies/2016/7munafik00_450.jpg</thumbnail>
-</item>
-
-<item>
 <title> 1,2 Jaga Akan Datang (2016) </title>
 <link>plugin://plugin.video.youtube/play/?video_id=XbVcZgDcazc</link>
 <thumbnail>http://3.bp.blogspot.com/-LOe3Kxh15bg/U46tz00e02I/AAAAAAAAENc/y7wZ32FNQuM/s1600/1%252C2-Jaga.png</thumbnail>
@@ -24,6 +18,12 @@
 <title> BoBoiBoy (2016) </title>
 <link>plugin://plugin.video.youtube/play/?video_id=4shpW9bq2sE</link>
 <thumbnail>http://boboiboymovie.com/img/movie-avatar-img.png</thumbnail>
+</item>
+
+<item>
+<title> Munafik (2016) </title>
+<link>plugin://plugin.video.youtube/play/?video_id=BbjrI7oFFuk</link>
+<thumbnail>http://www.cinema.com.my/images/movies/2016/7munafik00_450.jpg</thumbnail>
 </item>
 
 <item>
