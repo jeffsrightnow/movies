@@ -4,6 +4,18 @@
 
 
 <item>
+<title> ILofaYou 2018 - Episode 4 </title>
+<link>plugin://plugin.video.youtube/play/?video_id=LuCZ3WrGU0U</link>
+<thumbnail>https://pbs.twimg.com/media/Cp8kqTOUsAA5mCp.jpg</thumbnail>
+<item>
+
+<item>
+<title> ILofaYou 2018 - Episode 3 </title>
+<link>plugin://plugin.video.youtube/play/?video_id=7Cq9l7mcsdU</link>
+<thumbnail>https://pbs.twimg.com/media/Cp8kqTOUsAA5mCp.jpg</thumbnail>
+<item>
+
+<item>
 <title> ILofaYou 2018 - Episode 2 </title>
 <link>https://ok.ru/video/716560206445</link>
 <thumbnail>https://pbs.twimg.com/media/Cp8kqTOUsAA5mCp.jpg</thumbnail>
@@ -11,7 +23,7 @@
 
 <item>
 <title> ILofaYou 2018 - Episode 1 </title>
-<link>https://ok.ru/video/716560206445</link>
+<link>plugin://plugin.video.youtube/play/?video_id=WRtKdIrFSwk</link>
 <thumbnail>https://pbs.twimg.com/media/Cp8kqTOUsAA5mCp.jpg</thumbnail>
 <item>
 
