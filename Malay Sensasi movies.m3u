@@ -1,9 +1,11 @@
-#EXTM3U
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="",doodstream
-https://doodstream.com/e/6mjty593bpic
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="",fembed 
-https://fembed.com/v/8plgqb8wpx8l45w
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="",ok.ru
-https://ok.ru/videoembed/2395706034915
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="" tvg-url="" group-title="",uptostream
-https://uptostream.com/6of4pltdrhlv
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<item>
+<title> Episod 1 </title>
+<link>https://ok.ru/videoembed/2399674043107</link>
+<thumbnail>https://iluminasi.com/img/upload/suara-hati-585.jpg</thumbnail>
+<item>
+
+
