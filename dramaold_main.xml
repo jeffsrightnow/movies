@@ -1,14 +1,36 @@
 <xml>
 <item>
-<title>Testing 1</title>
+<title>Testing MKV</title>
 <thumbnail>https://1.bp.blogspot.com/-GGQV3mvpuBw/YOmO1yeSIxI/AAAAAAAAL-E/-76c3Gii2t40oXrE7_Cgb7NU6NnswKQqACLcBGAsYHQ/s16000/Ayahanda.jpg</thumbnail>
 <link>http://m1.montmovie.co/2021/Gunpowder.Milkshake.2021.720p.WEBRip.800MB.x264-GalaxyRG-%5BMontMovie%5D.mkv</link>
 <summary>All source From Website</summary>
 </item>
 <item>
-<title>Testing 2</title>
+<title>Testing M3U8</title>
 <thumbnail>https://1.bp.blogspot.com/-GGQV3mvpuBw/YOmO1yeSIxI/AAAAAAAAL-E/-76c3Gii2t40oXrE7_Cgb7NU6NnswKQqACLcBGAsYHQ/s16000/Ayahanda.jpg</thumbnail>
-<link>https://www.cocoscope.com/watch?v=85060</link>
+<link>http://m-cdn.fr33.click/M/2d4b0910d29df77543ac32a81d002c4b?u=2820295&s=82aaddb83145ca5c18b986e725f211aa434a951aa21dc690aad2129366bd3052</link>
+<summary>All source From Website</summary>
+</item>
+<item>
+<title>Testing Fembed</title>
+<thumbnail>https://1.bp.blogspot.com/-GGQV3mvpuBw/YOmO1yeSIxI/AAAAAAAAL-E/-76c3Gii2t40oXrE7_Cgb7NU6NnswKQqACLcBGAsYHQ/s16000/Ayahanda.jpg</thumbnail>
+<link>https://www964.ff-02.com/token=AqgK9ymDxJN8GhmQjNqFqg/1627046023/103.6.0.0/161/0/ba/9cc9e433b41c4dc958839932dff72ba0-720p.mp4</link>
+<summary>All source From Website</summary>
+</item>
+<title>Testing Doodstream</title>
+<thumbnail>https://1.bp.blogspot.com/-GGQV3mvpuBw/YOmO1yeSIxI/AAAAAAAAL-E/-76c3Gii2t40oXrE7_Cgb7NU6NnswKQqACLcBGAsYHQ/s16000/Ayahanda.jpg</thumbnail>
+<link>https://doodstream.com/e/j1c8zs2danne</link>
+<summary>All source From Website</summary>
+</item>
+<title>Testing OK.RU</title>
+<thumbnail>https://1.bp.blogspot.com/-GGQV3mvpuBw/YOmO1yeSIxI/AAAAAAAAL-E/-76c3Gii2t40oXrE7_Cgb7NU6NnswKQqACLcBGAsYHQ/s16000/Ayahanda.jpg</thumbnail>
+<link><iframe width="560" height="315" src="//ok.ru/videoembed/2407004965603?autoplay=1" frameborder="0" allow="autoplay" allowfullscreen></iframe></link>
+<summary>All source From Website</summary>
+</item>
+<item>
+<title>Testing Youtube</title>
+<thumbnail>https://1.bp.blogspot.com/-GGQV3mvpuBw/YOmO1yeSIxI/AAAAAAAAL-E/-76c3Gii2t40oXrE7_Cgb7NU6NnswKQqACLcBGAsYHQ/s16000/Ayahanda.jpg</thumbnail>
+<link>plugin://plugin.video.youtube/play/?video_id=btqY0xMQZo0</link>
 <summary>All source From Website</summary>
 </item>
 </xml>
